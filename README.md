@@ -2,7 +2,7 @@
 
 Final project of the Postgraduate Degree in Data Science in Biotechnology (School of Biotechnology, Catholic University of Portugal) — 19/20.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inesalexsilvajorge/Machine-Learning-Models-to-predict-Primary-Biliary-Cholangitis/blob/main/Modelo_machine_learning_para_previsao_de_mortalidade_por_CBP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inesalexsilvajorge/Machine-Learning-Models-to-predict-Primary-Biliary-Cholangitis/blob/main/machine_learning_CBP.ipynb)
 
 ## 🎯 Objective
 
@@ -45,7 +45,7 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Lifelines 
 
 ## 📁 Structure
 
-- `Modelo_machine_learning_para_previsao_de_mortalidade_por_CBP.ipynb` — full notebook covering the entire pipeline, from preprocessing to final evaluation.
+- `machine_learning_CBP.ipynb` — full notebook covering the entire pipeline, from preprocessing to final evaluation.
 
 ## ✍️ Author
 
