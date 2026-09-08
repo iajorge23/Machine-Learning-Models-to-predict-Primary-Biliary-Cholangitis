@@ -46,7 +46,3 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Lifelines 
 ## 📁 Structure
 
 - `machine_learning_CBP.ipynb` — full notebook covering the entire pipeline, from preprocessing to final evaluation.
-
-## ✍️ Author
-
-**Inês Jorge** — [LinkedIn](#) · [email](mailto:ines.silva.jorge@gmail.com)
