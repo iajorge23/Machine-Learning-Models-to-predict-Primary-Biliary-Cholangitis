@@ -1,0 +1,2 @@
+# Machine-Learning-Models-to-predict-Primary-Biliary-Cholangitis
+The objective was to predict mortality using machine learning. Multiple models were tested, with AdaBoost achieving the best performance (AUC-ROC=0.907). The final model used 17 features, with the five most important predictors being ascites, copper, bilirubin, prothrombin time and age, explaning 80.9% of the model’s discriminative capacity. 
